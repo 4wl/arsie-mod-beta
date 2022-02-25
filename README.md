@@ -1,7 +1,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/maywr">
-    <img src="https://i.imgur.com/WxwJMvS.png" alt="banner" width="1000" height="140">
+    <img src="https://i.imgur.com/WxwJMvS.png" alt="banner" width="1000" height="110">
   </a>
 
 ___
@@ -40,6 +40,11 @@ also don't forget that if you wanna build client you need some things like:
 * more cool gui renders
 * fixing crashes
 * main menu shaders
+
+## credits
+* mrnv for glslmenu shader rendering
+* aurora client for render util
+* amfero for custom font renderer from razmorozka 
 
 ## contributing
 i will be glad to see you making changes to client and posting them in pull requests so uh yeah
