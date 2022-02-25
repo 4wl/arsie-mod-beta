@@ -1,7 +1,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/maywr">
-    <img src="https://i.imgur.com/WxwJMvS.png" alt="banner" width="1000" height="110">
+    <img src="https://i.imgur.com/WxwJMvS.png" alt="banner" width="1000" height="130">
   </a>
 
 ___
