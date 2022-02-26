@@ -43,7 +43,7 @@ also don't forget that if you wanna build client you need some things like:
 
 ## credits
 * mrnv for glslmenu shader rendering
-* aurora client for render util
+* aurora client for render util & gui move
 * amfero for custom font renderer from razmorozka 
 
 ## contributing
