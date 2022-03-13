@@ -1,7 +1,11 @@
+<h3 align="center">WARNING: THE CLIENT IS IN THE BETA STAGE AND IT DOSN'T EVEN HAVE SETTING YET</h3>
+
+___
+
 <br />
 <div align="center">
   <a href="https://github.com/maywr">
-    <img src="https://i.imgur.com/WxwJMvS.png" alt="banner" width="1000" height="130">
+    <img src="https://i.imgur.com/WxwJMvS.png" alt="banner" width="1000" height="150">
   </a>
 
 ___
