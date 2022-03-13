@@ -1,0 +1,12 @@
+{
+    "required": true,
+    "package": "xyz.maywr.arsie.api.mixin.mixins",
+    "refmap": "mixins.arsie.refmap.json",
+    "minVersion": "0.7.4",
+    "compatibilityLevel": "JAVA_8",
+    "mixins": [
+        "MixinEntityRender",
+        "MixinMovementInput",
+        "MixinNetworkManager"
+    ]
+}

@@ -1,0 +1,15 @@
+[
+{
+  "modid": "arsie",
+  "name": "arsie mod",
+  "description": "i be on hard drugs",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "https://rt.pornhub.com/",
+  "authorList": ["maaaaaaaywr"],
+  "credits": "amfero for customfont, aurora for renderutil, mironov for glslmenushader",
+  "logoFile": "assets/arsie.png",
+  "screenshots": [],
+  "dependencies": []
+}
+]
